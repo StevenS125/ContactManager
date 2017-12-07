@@ -7,8 +7,8 @@ You will need to run npm install in terminal for all dependencies
 
 ### Prerequisites
 
-**Node.JS**,
-**Angular CLI**,
+Node.JS,
+Angular CLI,
 MongoDB MLAB account
 
 ## Deployment
