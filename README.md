@@ -12,7 +12,7 @@ Angular CLI,
 MongoDB MLAB account
 
 ## Deployment
-to run server type  node server.js
+to run server type npm start after downloading dependencies
 
 ## Built With
 
